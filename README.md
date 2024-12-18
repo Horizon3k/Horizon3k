@@ -9,6 +9,7 @@ Meu nome é Eric, mas sou conhecido como Horizon
   
 ## 🛠️ Linguagens e ferramentas que eu utilizo
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,vscode,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discordjs,bots,windows)](https://skillicons.dev)
 
 <!--
 [![My Skills](https://skillicons.dev/icons?i=discord,vscode)](https://skillicons.dev)
