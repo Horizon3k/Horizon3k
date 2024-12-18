@@ -7,7 +7,7 @@ Meu nome é Eric, mas sou conhecido como Horizon
 - [Instagram](https://www.instagram.com/atlasbotsoficial/)
 - [Tiktok](https://www.tiktok.com/@atlas_bots)
   
-## 🔨 Linguagens e ferramentas que eu utilizo
+## 🛠️ Linguagens e ferramentas que eu utilizo
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,vscode,discord)](https://skillicons.dev)
 
 <!--
