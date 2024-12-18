@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá, seja bem-vindo(a) ao meu perfil! 👋
+
+Meu nome é Eric, mas sou conhecido como Horizon
+
+### 👑 Atualmente sou fundador e desenvolvedor da Atlas Bots
+- [Discord](https://discord.gg/atlasbots)
+- [Instagram](https://www.instagram.com/atlasbotsoficial/)
+- [Tiktok](https://www.tiktok.com/@atlas_bots)
+  
+## 🔨 Linguagens e ferramentas que eu utilizo
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,vscode,discord)](https://skillicons.dev)
 
 <!--
-**Horizon3k/Horizon3k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![My Skills](https://skillicons.dev/icons?i=discord,vscode)](https://skillicons.dev)
 -->
