@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo(a) ao meu perfil! 👋
 
-Meu nome é Eric, mas sou conhecido como Horizon
+Me chamo Eric, mas sou conhecido como Horizon
 
 ### 👑 Atualmente sou fundador e desenvolvedor da Atlas Bots
 - [Discord](https://discord.gg/atlasbots)
@@ -8,7 +8,7 @@ Meu nome é Eric, mas sou conhecido como Horizon
 - [Tiktok](https://www.tiktok.com/@atlas_bots)
   
 ## 🛠️ Linguagens e ferramentas que eu utilizo
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,vscode,discord,discordjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,discordjs,vscode,discord)](https://skillicons.dev)
 
 <!--
 [![My Skills](https://skillicons.dev/icons?i=discord,vscode)](https://skillicons.dev)
