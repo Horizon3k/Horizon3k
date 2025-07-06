@@ -8,7 +8,7 @@ Me chamo Eric, mas sou conhecido como Horizon
 - [Tiktok](https://www.tiktok.com/@atlas_bots)
   
 ## 🛠️ Linguagens e ferramentas que utilizo
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,discordjs,vscode,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,discordjs,vscode)](https://skillicons.dev)
 
 <!--
 [![My Skills](https://skillicons.dev/icons?i=discord,vscode)](https://skillicons.dev)
